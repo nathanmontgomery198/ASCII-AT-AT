@@ -1,4 +1,3 @@
-package Practical01;
 
 public class PrintRobots {
 
